@@ -15,7 +15,7 @@ import cz.msebera.android.httpclient.Header;
 public class MainActivity extends AppCompatActivity {
 
     private final String TAG = this.getClass().getSimpleName();
-    private final String URL = "http://34.212.14.92:8089/adservices/studio.php?operation=GetPremiumApp";
+    private final String URL = "http://Your.site_url";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
